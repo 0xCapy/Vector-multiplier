@@ -1,6 +1,5 @@
 # Pipelined 8-bit Vector MAC Accelerator (Verilog)
-
-**University of Sheffield — EEE232 Coursework 2 (2025)**  
+ 
 A configurable, FPGA-oriented vector multiply–accumulate design built from 8-bit Wallace-tree multipliers, a pipelined adder tree, and a 32-bit accumulator.
 
 ## At a glance
@@ -145,7 +144,7 @@ Vector-multiplier/
 ├── sim/                  Existing Verilog/SystemVerilog testbenches
 ├── constr/               Original FPGA clock constraints (review required)
 ├── doc/                  Architecture and archived results images
-├── DesignReport.pdf      Original coursework report
+├── DesignReport.pdf      report
 └── README.md
 ```
 
